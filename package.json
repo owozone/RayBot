@@ -1,0 +1,30 @@
+{
+  "name": "discordserveranalytics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.10.0",
+    "fs": "0.0.1-security",
+    "materialize-css": "^1.0.0-rc.2",
+    "moment": "^2.24.0",
+    "path": "^0.12.7",
+    "sqlite": "^3.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bentenz5/DiscordAnalytics.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bentenz5/DiscordAnalytics/issues"
+  },
+  "homepage": "https://github.com/bentenz5/DiscordAnalytics#readme"
+}
