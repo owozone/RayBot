@@ -11,4 +11,5 @@ lerna-debug.log*
 node_modules/
 
 # Bot Data
- data/config.js
+/data/config.js
+/data/settings.sqlite3

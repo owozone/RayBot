@@ -1,5 +1,5 @@
 {
-  "name": "discordserveranalytics",
+  "name": "raybot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,6 @@
     "discord.js": "^11.5.1",
     "discord.js-commando": "^0.10.0",
     "fs": "0.0.1-security",
-    "materialize-css": "^1.0.0-rc.2",
     "moment": "^2.24.0",
     "path": "^0.12.7",
     "sqlite": "^3.0.3"
@@ -19,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bentenz5/DiscordAnalytics.git"
+    "url": "git+https://github.com/owozone/RayBot.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bentenz5/DiscordAnalytics/issues"
+    "url": "https://github.com/owozone/RayBot/issues"
   },
-  "homepage": "https://github.com/bentenz5/DiscordAnalytics#readme"
+  "homepage": "https://github.com/owozone/RayBot#readme"
 }
