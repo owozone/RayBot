@@ -13,3 +13,4 @@ node_modules/
 # Bot Data
 /data/config.js
 /data/settings.sqlite3
+/data/database.sqlite3

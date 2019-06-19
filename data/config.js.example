@@ -1,6 +1,7 @@
 const config = {
     token: '',
-    admin: ['']
+    admin: [''],
+    prefix: '!'
 }
 
 module.exports = config;
